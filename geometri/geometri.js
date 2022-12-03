@@ -5,9 +5,13 @@ const h = document.getElementById("h");
 
 let uAlan = document.getElementById("uAlan");
 let uCevre = document.getElementById("uCevre");
+
+// Karenin kenar ve gerekli değişkenleri 
 const k1 = document.getElementById("k1");
 let kAlan = document.getElementById("kAlan");
 let kCevre = document.getElementById("kCevre");
+
+// Dikdörtgenin kenar uzunluk ve gerekli değişkenleri
 const d1 = document.getElementById("d1");
 const d2 = document.getElementById("d2");
 let dAlan = document.getElementById("dAlan");
